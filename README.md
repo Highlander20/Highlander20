@@ -120,7 +120,7 @@ Soy estudiante de ingeniería de sistemas, actualmente a finalizar la carrera. E
 
 ###
 
-<h3 align="left">Colaboración💞</h3>
+<h3 align="left">Novio de mi Yubi💞</h3>
 
 ###
 
