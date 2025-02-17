@@ -15,6 +15,8 @@ Soy estudiante de ingeniería de sistemas, actualmente a finalizar la carrera. E
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫  Contáctame en: <a href="highlanderb50@gmail.com">highlanderb50@gmail.com</a>
 
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"  />
+
 ## My Skills Include
 
 <h4> Languages </h4>
@@ -56,17 +58,6 @@ Soy estudiante de ingeniería de sistemas, actualmente a finalizar la carrera. E
 <a href="https://www.youtube.com/@ValenWerle">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Highlander20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Highlander20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"  />
 
 ###
 
